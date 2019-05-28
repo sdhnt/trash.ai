@@ -1,1 +1,1 @@
-# trash.ai
+# trash_ai
